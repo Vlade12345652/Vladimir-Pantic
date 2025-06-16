@@ -50,6 +50,14 @@ a:focus {
     background: #F6D155;
 }
 
+.logo {
+  position: absolute;
+  top: 30px;
+  right: 50px;
+  width: 100px; 
+}
+
+
 .wrapper .sidebar-header,
 .wrapper .sidebar-footer {
     display: none;
