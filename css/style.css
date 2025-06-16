@@ -51,10 +51,11 @@ a:focus {
 }
 
 .logo {
-  position: absolute;
-  top: 30px;
-  right: 30px;
-  width: 100px; 
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 100px;
+  z-index: 999;
 }
 
 
